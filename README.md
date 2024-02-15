@@ -1,11 +1,10 @@
-# Chess.punch
+# Chess&Slaps
 
-Chess.punch is a Python project that uses machine learning algorithms to perform object detection on a chessboard, compute the moves for the opponent, and determine the winner of the game. It's designed for individuals who want to play chess but don't have an opponent.
+Chess&Slaps is a Python project that uses machine learning algorithms to perform object detection on a chessboard, compute the moves for the opponent, and determine the winner of the game. It's designed for individuals who want to play chess but don't have an opponent.
 
 <p align="center">
   <img width="150" height="150" src="./pics/logo3.jpeg">
 </p>
-
 
 ## How it Works
 
